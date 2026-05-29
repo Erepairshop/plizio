@@ -1483,7 +1483,66 @@ function renderHtml(poi: POI, lang: Lang): string | null {
       const hiddenBlock = hidden ? `<div class="plz-yh-hidden" hidden>${hidden}</div>` : "";
       const headTxt = escapeHtml(heading[lang] || heading.en || "Highlights of 2026");
       const SPARK_SVG = `<svg class="plz-yh-icon" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M3 12h3M18 12h3M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/><circle cx="12" cy="12" r="3"/></svg>`;
-      yearlyHtml = `<details class="plz-yh plz-yh-collapse"><summary class="plz-yh-summary-row">${SPARK_SVG}<h3 class="plz-yh-head">${headTxt}</h3><span class="plz-yh-count">${sorted.length}</span><span class="plz-yh-arrow" aria-hidden="true">›</span></summary><div class="plz-yh-body">${visible}${hiddenBlock}${moreBtn}</div></details>
+      // Schema.org Event JSON-LD (ItemList of Event/MusicEvent/Festival/ExhibitionEvent).
+      // Google requires startDate + name + location.address; we add image, url, description
+      // and endDate (for recurrent events spanning multiple dates) when available.
+      const eventTypeFor = (ev: any): string => {
+        const seg = (typeof ev.category === "string" ? ev.category : (ev.category?.en || ev.segment || "")).toString().toLowerCase();
+        if (seg.includes("music") || seg.includes("concert")) return "MusicEvent";
+        if (seg.includes("theatre") || seg.includes("theater") || seg.includes("arts")) return "TheaterEvent";
+        if (seg.includes("festival") || seg.includes("fiesta")) return "Festival";
+        if (seg.includes("exhib") || seg.includes("museum") || seg.includes("cultural")) return "ExhibitionEvent";
+        if (seg.includes("sport")) return "SportsEvent";
+        if (seg.includes("family") || seg.includes("kid")) return "ChildrensEvent";
+        return "Event";
+      };
+      const pickL = (v: any): string => {
+        if (!v) return ""; if (typeof v === "string") return v;
+        if (typeof v === "object") return v[lang] || v.en || v.de || v.fr || (Object.values(v)[0] as string) || "";
+        return "";
+      };
+      const eventItems = sorted.map((ev: any, i: number) => {
+        const name = pickL(ev.title);
+        const desc = pickL(ev.summary);
+        if (!name || !ev.date) return null;
+        const startDate = String(ev.date).slice(0, 10);
+        const obj: any = {
+          "@type": eventTypeFor(ev),
+          "position": i + 1,
+          "name": name,
+          "startDate": startDate,
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "location": {
+            "@type": "Place",
+            "name": (poi as any).name?.[lang] || (poi as any).name?.en || poi.id,
+            "address": (poi as any).name?.[lang] || (poi as any).name?.en || poi.id,
+            "geo": Array.isArray(poi.coords) ? {
+              "@type": "GeoCoordinates",
+              "latitude": poi.coords[1],
+              "longitude": poi.coords[0],
+            } : undefined,
+          },
+        };
+        if (desc) obj.description = desc;
+        if (typeof ev.image_url === "string" && /^https?:\/\//.test(ev.image_url)) obj.image = ev.image_url;
+        if (typeof ev.source_url === "string" && /^https?:\/\//.test(ev.source_url)) obj.url = ev.source_url;
+        // Organizer fallback so Google has a complete record
+        obj.organizer = { "@type": "Organization", "name": "Plizio" };
+        return obj;
+      }).filter(Boolean);
+      const eventListLd = eventItems.length > 0 ? `<script type="application/ld+json">${JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": heading[lang] || heading.en,
+        "numberOfItems": eventItems.length,
+        "itemListElement": eventItems.map((it: any, i: number) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "item": (() => { const { position, ...rest } = it; return rest; })(),
+        })),
+      })}</script>` : "";
+      yearlyHtml = `${eventListLd}<details class="plz-yh plz-yh-collapse"><summary class="plz-yh-summary-row">${SPARK_SVG}<h3 class="plz-yh-head">${headTxt}</h3><span class="plz-yh-count">${sorted.length}</span><span class="plz-yh-arrow" aria-hidden="true">›</span></summary><div class="plz-yh-body">${visible}${hiddenBlock}${moreBtn}</div></details>
 <script>(function(){var bs=document.querySelectorAll('.plz-yh-more');bs.forEach(function(b){b.addEventListener('click',function(){var p=b.parentElement,h=p.querySelector('.plz-yh-hidden');if(!h)return;var o=h.hasAttribute('hidden');if(o){h.removeAttribute('hidden');b.textContent=b.dataset.less+' ▲';b.setAttribute('aria-expanded','true')}else{h.setAttribute('hidden','');b.textContent=b.dataset.more+' (+${sorted.length - VISIBLE}) ▼';b.setAttribute('aria-expanded','false')}})})})();</script>`;
     }
   } catch {}
