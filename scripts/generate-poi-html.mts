@@ -887,7 +887,7 @@ function structuredData(
     });
   }
 
-  return schemas.map((s) => `<script type="application/ld+json">${JSON.stringify(s)}</script>`).join("\n");
+  return schemas.map((s) => `<script type="application/ld+json">${JSON.stringify(s).replace(/</g, "\\u003c")}</script>`).join("\n");
 }
 
 // City-itinerary loader + renderer (4-mode day trip widget).
@@ -1280,7 +1280,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     if (defaultMd.total_km) {
       tripObj.distance = `${defaultMd.total_km} km`;
     }
-    tripLd = `<script type="application/ld+json">${JSON.stringify(tripObj)}</script>`;
+    tripLd = `<script type="application/ld+json">${JSON.stringify(tripObj).replace(/</g, "\\u003c")}</script>`;
   }
 
   return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header">${logoSvg}<div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}</div></section>
@@ -1768,7 +1768,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
           "position": i + 1,
           "item": (() => { const { position, ...rest } = it; return rest; })(),
         })),
-      })}</script>` : "";
+      }).replace(/</g, "\\u003c")}</script>` : "";
       yearlyHtml = `${eventListLd}<details class="plz-yh plz-yh-collapse"><summary class="plz-yh-summary-row">${SPARK_SVG}<h3 class="plz-yh-head">${headTxt}</h3><span class="plz-yh-count">${sorted.length}</span><span class="plz-yh-arrow" aria-hidden="true">›</span></summary><div class="plz-yh-body">${visible}${hiddenBlock}${moreBtn}</div></details>
 <script>(function(){var bs=document.querySelectorAll('.plz-yh-more');bs.forEach(function(b){b.addEventListener('click',function(){var p=b.parentElement,h=p.querySelector('.plz-yh-hidden');if(!h)return;var o=h.hasAttribute('hidden');if(o){h.removeAttribute('hidden');b.textContent=b.dataset.less+' ▲';b.setAttribute('aria-expanded','true')}else{h.setAttribute('hidden','');b.textContent=b.dataset.more+' (+${sorted.length - VISIBLE}) ▼';b.setAttribute('aria-expanded','false')}})})})();</script>`;
     }
@@ -2379,7 +2379,7 @@ ready();})();</script>
   <div><a href="/${lang}/">Plizio</a> · <a href="/europe-map/">Europa</a> · <a href="/${lang}/datenschutz/">Datenschutz</a> · <a href="/${lang}/ueber-uns/">Über uns</a></div>
   <div style="margin-top:.4rem;font-size:.85em;opacity:.7;">Weitere Projekte: <a href="https://punktepass.de" rel="me">PunktePass</a> · <a href="https://erepairshop.de" rel="me">Erepairshop</a> · <a href="https://diginachrichten.de" rel="me">Diginachrichten</a></div>
 </footer>
-<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, "\\u003c")}</script>
 </body>
 </html>`;
 }
